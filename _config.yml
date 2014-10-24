@@ -10,6 +10,8 @@ url: "http://duncanjohnson.ca/Student-Writing-Helps/" # the base hostname & prot
 twitter_username: dtjohnso
 github_username:  dtjohnso
 
+repository: https://github.com/dtjohnso/Student-Writing-Helps
+
 # Build settings
 markdown: kramdown
 
