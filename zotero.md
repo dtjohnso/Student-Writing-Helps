@@ -31,7 +31,7 @@ See the pages listed below for further documentation.
 
 <ul>
 	{% for post in site.categories.zotero %}
-		<li><a href="{{post.url}}">{{ post.title }}</a></li>
+		<li><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
 
