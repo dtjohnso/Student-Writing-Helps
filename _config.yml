@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Word and OpenOffice templates for student writing projects,
   along with support materials to assist students in writing
   research papers using Turabian style and Zotero.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://duncanjohnson.ca/Student-Writing-Helps" # the base hostname & protocol for your site
+baseurl: "/Student-Writing-Helps" # the subpath of your site, e.g. /blog/
+url: "http://duncanjohnson.ca" # the base hostname & protocol for your site
 twitter_username: dtjohnso
 github_username:  dtjohnso
 
