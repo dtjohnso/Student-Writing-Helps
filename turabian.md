@@ -14,6 +14,8 @@ Rather than spending time that you could be using for writing and researching wi
 
 ### Read the instructions!
 
+![](https://covers.openlibrary.org/b/id/7256672-M.jpg) 
+
 Remember that the technical helps offered here are no substitute for knowing Turabian standards (and the sometimes contradicting instructions of your teachers!).
 
 You simply **must** get a copy of Turabian's book (be sure you have the latest edition), but also pay attention to any style guidelines given to you by your teachers. Know where the two contradict each other, and follow your teacher's prefs.
