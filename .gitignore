@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .buildnotes
+dump.html
+dump.markdown
