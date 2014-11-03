@@ -41,12 +41,6 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 
 ## Installation and Usage Guides
 
-See the pages listed below for further documentation.
+To use the Turabian template available above, here's a brief demonstration video that I made a few years ago.
 
-<ul>
-	{% for post in site.categories.turabian %}
-		<li><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></li>
-	{% endfor %}
-</ul>
-
-
+<iframe src="//player.vimeo.com/video/13361608" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/13361608">Using Turabian Wizard styles</a> from <a href="http://vimeo.com/dtjohnso">Duncan Johnson</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p></p>
