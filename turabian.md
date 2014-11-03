@@ -39,7 +39,7 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 [docx-template]: {{site.baseurl}}/downloads/Turabian Template.docx
 [lorem-ipsum]: {{site.baseurl}}/downloads/Turabian Lorem Ipsum.docx
 
-## Installation and Usage Guides
+## Demo video
 
 To use the Turabian template available above, here's a brief demonstration video that I made a few years ago.
 
