@@ -35,11 +35,13 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
     - [Word DOCX format][docx-template] (for Microsoft Word 2007+)
     - [Word DOC format][doc-template] (for older versions of Word, or OpenOffice)
 * A sample paper using the styles found in the template, so you can see the styles "in action":
-    - [Turabian Lorem Ipsum][lorem-ipsum]
+    - [Turabian Lorem Ipsum (DOCX format)][lorem-ipsum]
+    - [Turabian Lorem Ipsum (DOC format)][lorem-ipsum]
 
 [doc-template]: {{site.baseurl}}/downloads/Turabian Template.doc
 [docx-template]: {{site.baseurl}}/downloads/Turabian Template.docx
 [lorem-ipsum]: {{site.baseurl}}/downloads/Turabian Lorem Ipsum.docx
+[lorem-ipsum]: {{site.baseurl}}/downloads/Turabian Lorem Ipsum.doc
 
 ## Demo video
 
