@@ -20,7 +20,7 @@ Whenever possible, use Unicode! Here's why:
     Unicode: <span lang="el">σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ θεῷ, ἐργάτην ἀνεπαίσχυντον, ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας.</span> (This line appears as Greek glyphs, regardless of which fonts you have installed on your computer.)
 
 
-    BibleWorks font: <span style="font-family: bwgrkl;">spou,dason seauto.n do,kimon parasth/sai tw/| qew/|( evrga,thn avnepai,scunton( ovrqotomou/nta to.n lo,gon th/j avlhqei,ajÅ</span> (This line will only look like Greek if you have the BibleWorks font installed on your computer.)
+    BibleWorks font: <span style="font-family: bwgrkl;">spou,dason seauto.n do,kimon parasth/sai tw/\| qew/\|( evrga,thn avnepai,scunton( ovrqotomou/nta to.n lo,gon th/j avlhqei,ajÅ</span> (This line will only look like Greek if you have the BibleWorks font installed on your computer.)
 
 Try copying and pasting each of these verses into a plain text editor like Windows Notepad, and you should see the difference between the actual Greek characters used by Unicode and the masked English characters used by the BibleWorks font.
 
