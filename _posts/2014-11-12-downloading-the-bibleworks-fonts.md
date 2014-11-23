@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Configuring Unicode in BibleWorks"
+title: "Downloading the Bibleworks fonts"
 categories: unicode
 ---
 
