@@ -34,6 +34,8 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 * A Word Document to use as a template for creating Turabian class papers:
     - [Word DOCX format][docx-template] (for Microsoft Word 2007+)
     - [Word DOC format][doc-template] (for older versions of Word, or OpenOffice)
+* For OpenOffice users, I've made a slightly edited file that corrects a couple bugs found in the transferring over to OpenOffice from Microsoft Word:
+	- [OpenOffice template][odt-template] (many thanks to Dave Aschenmeier for identifying these bugs)
 * A sample paper using the styles found in the template, so you can see the styles "in action":
     - [Turabian Lorem Ipsum (DOCX format)][lorem-ipsum]
     - [Turabian Lorem Ipsum (DOC format)][lorem-ipsum]
@@ -42,6 +44,7 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 [docx-template]: {{site.baseurl}}/downloads/Turabian Template.docx
 [lorem-ipsum]: {{site.baseurl}}/downloads/Turabian Lorem Ipsum.docx
 [lorem-ipsum]: {{site.baseurl}}/downloads/Turabian Lorem Ipsum.doc
+[odt-template]: {{site.baseurl}}/downloads/having-fun-with-Dave.odt
 
 ## Demo video
 
