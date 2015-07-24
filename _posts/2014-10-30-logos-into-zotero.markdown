@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting your Logos 4 Library into Zotero"
-categories: zotero
+categories: zotero, logos
 ---
 
 > ![](http://www.logos.com/media/mediakit/LogosLogoTrans100x32.png) 
