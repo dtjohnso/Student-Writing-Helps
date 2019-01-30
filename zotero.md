@@ -21,9 +21,6 @@ It allows you to easily gather and share reference information, and to incorpora
 - Create bibliographies and insert footnotes using Word or OpenOffice
 - Automatically updates to work with new online sources and new bibliographic styles
 
-## Intro Video
-
-See [this video on the Zotero site](http://www.zotero.org/support/screencast_tutorials/zotero_tour) for a quick (3:11) overview of its features.
 
 ## Installation and Usage Guides
 
