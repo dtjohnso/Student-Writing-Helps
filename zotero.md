@@ -17,7 +17,7 @@ It allows you to easily gather and share reference information, and to incorpora
 - Free and easy to use!
 - Attach PDFs, notes and images to your sources
 - Organize collections for your different research projects
-- Create bibliographies and insert footnotes using Word, OpenOffice, or [Google Docs](https://www.zotero.org/blog/google-docs-integration/)
+- Create bibliographies and insert footnotes using Word, LibreOffice, or [Google Docs](https://www.zotero.org/blog/google-docs-integration/)
 - Automatically updates to work with new online sources and new bibliographic styles
 
 
