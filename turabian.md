@@ -16,7 +16,7 @@ In addition, the [Turabian website](https://www.chicagomanualofstyle.org/turabia
 
 ### Read the instructions!
 
-![](https://covers.openlibrary.org/b/id/8410419-M.jpg) 
+![Turabian manual](https://covers.openlibrary.org/b/id/8410419-M.jpg) 
 
 Remember that the technical helps offered here are no substitute for knowing Turabian standards (and the sometimes contradicting instructions of your teachers!).
 
@@ -24,11 +24,9 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 
 *A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers* by Kate L. Turabian
 
-Affiliate links:
-
-* <img alt="USA" src="{{site.baseurl}}/assets/us.svg" height="16px" /> Amazon.com: [Kindle edition][amazon-usa-kindle] / [Paperback][amazon-usa-paperback]
-
+**Affiliate links:**
 * <img alt="CA" src="{{site.baseurl}}/assets/ca.svg" height="16px" /> Amazon.ca: [Kindle edition][amazon-ca-kindle] / [Paperback][amazon-ca-paperback]
+* <img alt="USA" src="{{site.baseurl}}/assets/us.svg" height="16px" /> Amazon.com: [Kindle edition][amazon-usa-kindle] / [Paperback][amazon-usa-paperback]
 
 [amazon-ca-kindle]: https://www.amazon.ca/Manual-Writers-Research-Papers-Dissertations-ebook/dp/B07CQGQJPY/?tag=duncanjohns04-20
 [amazon-ca-paperback]: https://www.amazon.ca/Manual-Writers-Research-Papers-Dissertations/dp/022643057X/?tag=duncanjohns04-20
