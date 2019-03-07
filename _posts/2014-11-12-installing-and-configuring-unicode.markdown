@@ -6,7 +6,9 @@ categories: unicode
 
 This video is a little dated (made using Windows XP), but most of the general principles (and Control Panel interfaces) remain the same in Windows 7 at least.
 
-<iframe src="//player.vimeo.com/video/13361807" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/13361807">Installing & configuring Unicode</a> from <a href="http://vimeo.com/dtjohnso">Duncan Johnson</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p></p>
+
+{% include myVimeoPlayer.html id='13361807' %}
+
 
 The important links mentioned in the video above are available below. Use these to download the files you will need to configure Greek & Hebrew on your computer.
 

@@ -8,4 +8,4 @@ I just made a short video to show how to set up a basic study environment for a 
 
 Here it is:
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/DHvZ8vvRWkI?rel=0" frameborder="0" allowfullscreen></iframe>
+{% include myYoutubePlayer.html id='DHvZ8vvRWkI' %}
