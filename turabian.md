@@ -10,24 +10,30 @@ Simply put, "Turabian" is shorthand for the widely-accepted academic [style guid
 
 ### You don't need to do this alone.
 
-Rather than spending time that you could be using for writing and researching with the details of page layout, you can use a Word template with predefined styles that follow the Turabian guidelines.
+Rather than spending time that you could be using for writing and researching with the details of page layout, you can use a Word template with predefined styles that follow the Turabian guidelines. More on that below.
+
+In addition, the [Turabian website](https://www.chicagomanualofstyle.org/turabian.html) includes some handy resources, such as quick reference guides to some of the details found in the book.
 
 ### Read the instructions!
 
-![](https://covers.openlibrary.org/b/id/7256672-M.jpg) 
+![](https://covers.openlibrary.org/b/id/8410419-M.jpg) 
 
 Remember that the technical helps offered here are no substitute for knowing Turabian standards (and the sometimes contradicting instructions of your teachers!).
 
-You simply **must** get a copy of Turabian's book (be sure you have the latest edition), but also pay attention to any style guidelines given to you by your teachers. Know where the two contradict each other, and follow your teacher's prefs.
+You simply **must** get a copy of Turabian's book (be sure you have the latest edition), but also pay attention to any style guidelines given to you by your teachers. Know where the two contradict each other, and follow your teacher's preferences.
 
 *A Manual for Writers of Research Papers, Theses, and Dissertations: Chicago Style for Students and Researchers* by Kate L. Turabian
 
-* [Library holdings at Foundation Baptist College][turabian-fbc-catalog]
-* [Amazon Kindle edition][turabian-kindle]
+Affiliate links:
 
-[turabian-fbc-catalog]: http://library.foundationbaptistcollege.com/cgi-bin/koha/opac-detail.pl?biblionumber=531
-[turabian-kindle]: http://www.amazon.ca/gp/product/B00BXQ41GO/ref=as_li_ss_tl?ie=UTF8&camp=15121&creative=390961&creativeASIN=B00BXQ41GO&linkCode=as2&tag=duncanjohns04-20'
+* <img alt="USA" src="{{site.baseurl}}/assets/us.svg" height="16px" /> Amazon.com: [Kindle edition][amazon-usa-kindle] / [Paperback][amazon-usa-paperback]
 
+* <img alt="CA" src="{{site.baseurl}}/assets/ca.svg" height="16px" /> Amazon.ca: [Kindle edition][amazon-ca-kindle] / [Paperback][amazon-ca-paperback]
+
+[amazon-ca-kindle]: https://www.amazon.ca/Manual-Writers-Research-Papers-Dissertations-ebook/dp/B07CQGQJPY/?tag=duncanjohns04-20
+[amazon-ca-paperback]: https://www.amazon.ca/Manual-Writers-Research-Papers-Dissertations/dp/022643057X/?tag=duncanjohns04-20
+[amazon-usa-kindle]: https://www.amazon.com/Manual-Writers-Research-Papers-Dissertations-ebook/dp/B07CQGQJPY/?tag=duncanandmego-20
+[amazon-usa-paperback]: https://www.amazon.com/Manual-Writers-Research-Papers-Dissertations-dp-022643057X/dp/022643057X/?tag=duncanandmego-20
 
 ## Downloads
 
@@ -50,4 +56,4 @@ You simply **must** get a copy of Turabian's book (be sure you have the latest e
 
 To use the Turabian template available above, here's a brief demonstration video that I made a few years ago.
 
-<iframe src="//player.vimeo.com/video/13361608" width="700" height="525" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/13361608">Using Turabian Wizard styles</a> from <a href="http://vimeo.com/dtjohnso">Duncan Johnson</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p></p>
+{% include myVimeoPlayer.html id='13361608' %}
