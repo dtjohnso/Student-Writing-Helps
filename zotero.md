@@ -25,6 +25,7 @@ It allows you to easily gather and share reference information, and to incorpora
 
 * [Zotero site][main-site] - Home page for the Zotero project
 * [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide) - To get you up and running.
+* [How to add additional citation style formats](https://www.zotero.org/support/styles) - If you need a citation style format that isn't included by default (such as Turabian or SBL Handbook of Style), you have to add it to your Zotero Style Manager. Both Turabian and SBL style are in the Zotero Style Repository.
 * [Andy Naselli's blog post on organizing your Zotero collections](http://andynaselli.com/personal-theological-library/) - A must read. I wish I had taken his advice years ago and organized my Zotero collections into some sort of logical hierarchy of topics. Now I have an inchoate mess and just have to search it all the time, which means I may miss stuff if I use the wrong search terms. Of course, I'm to blame here, not the software.
 * [Zotero blog](http://www.zotero.org/blog/) - Official blog of the Zotero project, great for current news on the project
 * [Zotero tutorial videos](https://www.zotero.org/support/screencast_tutorials) - Zotero has produced several great how-to videos on their site that demonstrate step by step how to use Zotero's features.
