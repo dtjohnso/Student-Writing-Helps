@@ -16,9 +16,9 @@ Here are some of my favorite typefaces that support Greek and Hebrew text for bi
 * [Cardo](https://fonts.google.com/specimen/Cardo) - open-source licensed under the [SIL Open Font License][sil-ofl]
 * [SBL BibLit](https://www.sbl-site.org/educational/BiblicalFonts_SBLBibLit.aspx) - Free personal use, commercial license available. Apparently combines SBL Greek and SBL Hebrew, perhaps with some omissions
 * [Linux Libertine](http://libertine-fonts.org/) - OpenType format, open-source license
-* [EB Garamond](http://www.georgduffner.at/ebgaramond/)  - OpenType format, open-source licensed under the [SIL Open Font License][sil-ofl]
+* [EB Garamond](https://github.com/octaviopardo/EBGaramond12) - OpenType format, open-source licensed under the [SIL Open Font License][sil-ofl]. Preview at the [original designer's site](http://www.georgduffner.at/ebgaramond/), but note that the version offered there may not be the most recent.
+* [Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) and [Alegreya Sans](https://www.huertatipografica.com/en/fonts/alegreya-sans-ht) - Includes broad coverage of Greek character set, including Greek small caps, open-source licensed under the [SIL Open Font License][sil-ofl]
 * Various typefaces by the [Greek Font Society](https://greekfontsociety-gfs.gr/typefaces) - [**NOTE: click "en"** at the top of the page to view the English version of the site.]  Open-source licensed under the [SIL Open Font License][sil-ofl]
-
 
 ## Semitics (Hebrew, etc.)
 
