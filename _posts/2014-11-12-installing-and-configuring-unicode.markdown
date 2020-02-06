@@ -21,6 +21,6 @@ The important links mentioned in the video above are available below. Use these 
 ## Additional help on how/why Unicode
 
 * [Unicode posts by Mark Ward](http://byfaithweunderstand.com/?s=unicode)
-* [Configuring Hebrew right-to-left with Unicode](http://www.hebrewsyntax.org/hebrew_resources/hebrew_in_windows_xp.pdf)
+<!-- * [Configuring Hebrew right-to-left with Unicode](http://www.hebrewsyntax.org/hebrew_resources/hebrew_in_windows_xp.pdf) -->
 * [Unicode help by Rod Decker](http://ntresources.com/blog/?s=unicode)
 * [Configuring Polytonic Greek on Linux](https://docs.google.com/Doc?id=dccdrjqk_4cqjn9zcj)

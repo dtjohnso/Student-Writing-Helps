@@ -6,12 +6,11 @@ categories: zotero, logos
 
 > ![](http://www.logos.com/media/mediakit/LogosLogoTrans100x32.png) 
 >
-> *This
+> This
 > material is reproduced with permission from the Logos Bible Software
-> blog [(original
-> post)](http://blog.logos.com/archives/2010/06/exporting_your_logos_4_library_to_zotero.html).*
+> blog. Original URL (now a 404): http://blog.logos.com/archives/2010/06/exporting_your_logos_4_library_to_zotero.html
 
-These instructions are for **Logos 4**. For **older versions of Logos**, see [this post on the Logos blog](http://blog.logos.com/archives/2009/02/exporting_your_libronix_library_to_zotero.html).
+These instructions are for **Logos 4**. <!-- For **older versions of Logos**, see [this post on the Logos blog](http://blog.logos.com/archives/2009/02/exporting_your_libronix_library_to_zotero.html). -->
 
 Here are the five simple steps you’ll need to take.
 
