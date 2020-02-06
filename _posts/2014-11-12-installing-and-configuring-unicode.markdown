@@ -14,10 +14,9 @@ The important links mentioned in the video above are available below. Use these 
 
 ## Useful Downloads
 
-* [Tyndale Unicode Font Kit](http://www.tyndale.cam.ac.uk/index.php?page=unicode)
-* [Tyndale Unicode Keyboard Layout](http://www.tyndale.cam.ac.uk/Fonts/DocFiles/Keyboards.htm)
-* [Gentium: English and Greek Unicode font](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium)
-* [Ezra SIL: Hebrew Unicode font](http://scripts.sil.org/EzraSIL_Home)
+* [Tyndale Unicode Font Kit](https://academic.tyndalehouse.com/unicode-font-kit)
+* [Tyndale Unicode Keyboard Layout and FAQs](https://academic.tyndalehouse.com/storage/files/using-font-kit-clickable.pdf)
+* [Good typefaces (informally, "fonts")](({{ site.baseurl }}/unicode/2019/05/21/greek-and-hebrew-unicode-typefaces.html))
 
 ## Additional help on how/why Unicode
 
