@@ -16,7 +16,7 @@ The important links mentioned in the video above are available below. Use these 
 
 * [Tyndale Unicode Font Kit](https://academic.tyndalehouse.com/unicode-font-kit)
 * [Tyndale Unicode Keyboard Layout and FAQs](https://academic.tyndalehouse.com/storage/files/using-font-kit-clickable.pdf)
-* [Good typefaces (informally, "fonts")](({{ site.baseurl }}/unicode/2019/05/21/greek-and-hebrew-unicode-typefaces.html))
+* [Good typefaces (informally, "fonts")]({{ site.baseurl }}/unicode/2019/05/21/greek-and-hebrew-unicode-typefaces.html)
 
 ## Additional help on how/why Unicode
 
