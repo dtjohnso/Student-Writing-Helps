@@ -20,5 +20,5 @@ term.
 ### Torrent download
 
 If you are familiar with using P2P download software, I've uploaded a copy of
-the [Torrent file from Archive.org]({{site.baseurl}}/assets/bibleworks-fonts_archive.torrent]. There may not be
+the [Torrent file from Archive.org]({{site.baseurl}}/assets/bibleworks-fonts_archive.torrent). There may not be
 many peers active, but if any are available it may work in a pinch.
