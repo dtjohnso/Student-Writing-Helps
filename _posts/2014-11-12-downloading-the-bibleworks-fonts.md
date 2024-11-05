@@ -7,8 +7,7 @@ categories: unicode
 Now that BibleWorks has closed operations, the official download links no
 longer work.
 
-A copy has been placed on the [archive.org mirror site]
-(https://archive.org/details/bibleworks-fonts) for future reference. 
+A copy has been placed on the [archive.org mirror site](https://archive.org/details/bibleworks-fonts) for future reference.
 
 You can download and install the fonts using the ZIP file there. 
 
@@ -21,6 +20,5 @@ term.
 ### Torrent download
 
 If you are familiar with using P2P download software, I've uploaded a copy of
-the [Torrent file from Archive.org]({
-{ site.baseurl }}/assets/bibleworks-fonts_archive.torrent]. There may not be
+the [Torrent file from Archive.org]({{site.baseurl}}/assets/bibleworks-fonts_archive.torrent]. There may not be
 many peers active, but if any are available it may work in a pinch.
